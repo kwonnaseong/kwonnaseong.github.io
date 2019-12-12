@@ -10,4 +10,4 @@
 
 ![WalletApplication](https://user-images.githubusercontent.com/50594187/70739330-eafd8700-1d59-11ea-930b-faa1fb9cee76.PNG)
 
-https://kwonnaseong.github.io/SimpleWallet/simpleWallet.html
+ERC20 Wallet Application : https://kwonnaseong.github.io/SimpleWallet/simpleWallet.html
