@@ -7,3 +7,7 @@
 ### FriendContract.sol : 친구 기능에 대한 Smart Contract를 작성하는 파일 
 ### SimpleToken.sol : ERC20에 대한 Smart Contract를 작성하는 파일 
 ### ERC20 관련 sol 파일 : ERC 토큰을 정의한 파일
+
+<img src="../WalletApplication.png" width="60%" height="auto">
+
+https://kwonnaseong.github.io/SimpleWallet/simpleWallet.html
